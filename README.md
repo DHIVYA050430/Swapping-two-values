@@ -20,15 +20,26 @@ End the program
 ## PROGRAM:  
 ```
 #swapping of two vaiables
-#Devloprd by: Divya
-#Register number:23011187
+
+#Devloprd by: DIVYA E
+
+Register number: 23011187
+
 n1=int(input())
+
 n2=int(input())
+
 n1=temp
+
 n1=n2
+
 n2=temp
+
 print("The swapped values are")
+
 ```
+## OUTPUT:
+![OUTPUT](https://github.com/DHIVYA050430/Swapping-two-values/assets/147141546/76fcf476-b2a1-4464-9e56-0007813fff5f)
 
 
 ## RESULT:
